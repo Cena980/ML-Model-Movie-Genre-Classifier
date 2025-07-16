@@ -1,3 +1,8 @@
+# Welcome to Movie Genre Classifier Model
+## The dataset used to train the model is available in the repository root directory alogside the trained model files.
+## You can also access a live model using the link below:
+https://huggingface.co/spaces/Cena980/movie_genre_classifier
+
 ---
 library_name: transformers
 tags: []
